@@ -22,6 +22,8 @@
 <a href="https://instagram.com/shakib_2273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shakib_2273" height="30" width="40" /></a>
 </p>
 <br>
+<h2 align="center">📋About me📋</h2>
+<br>
 <p>
   🎓 I'm currently an undergraduate student pursuing a degree in Computer Science and Engineering (CSE). My journey in the world of technology has been marked by a deep passion for frontend development and UI/UX design. <br><br>
   💻 Proficient in languages such as HTML, CSS, and JavaScript, I specialize in crafting elegant and responsive user interfaces. I'm well-versed in modern frontend frameworks like React, enabling me to build dynamic and interactive web applications. <br><br>
@@ -32,7 +34,8 @@
   🚀 Passionate about leveraging technology to create meaningful experiences, I'm on a mission to make a positive impact through innovative design and cutting-edge development. Join me as I continue to push the boundaries of creativity and craftsmanship in the digital world!
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="center">⚜Languages and Frameworks⚜</h2>
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,php,html,css,js,bootstrap,mysql,git,windows,linux,vscode" />
