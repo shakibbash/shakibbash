@@ -37,7 +37,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakibbash&theme=dracula" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakibbash&show_icons=true&theme=dracula" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakibbash&show_icons=true&theme=dracula&rank_icon=github" /></p>
 
 <p><img align="center" src="https://streak-stats.demolab.com?user=shakibbash&theme=dracula" alt="shakibbash" /></p>
 
