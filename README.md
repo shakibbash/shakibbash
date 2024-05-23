@@ -39,6 +39,8 @@
   </a>
 </p>
 <br>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakibbash&theme=dracula" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakibbash&show_icons=true&theme=dracula&rank_icon=github" /></p>
