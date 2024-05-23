@@ -41,3 +41,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakibbash&" alt="shakibbash" /></p>
 
+![snake gif](https://github.com/shakibbash/shakibbash/blob/output/github-contribution-grid-snake.gif)
