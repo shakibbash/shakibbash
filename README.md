@@ -1,3 +1,13 @@
+<p>
+  <img   align="center" width="100%" src="https://i.postimg.cc/x1X5GmnN/Whats-App-Image-2024-05-23-at-21-18-12.jpg" alt="Example Image" > 
+</p>
+<br>
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Shakib Hossain</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23007BFF&center=true&vCenter=true&lines=CREATIVE+DESIGNER;Good+Listener;Self+Learner"><br>
