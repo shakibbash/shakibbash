@@ -22,12 +22,12 @@
 <a href="https://instagram.com/shakib_2273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shakib_2273" height="30" width="40" /></a>
 </p>
 <p>
-  🎓 I'm currently an undergraduate student pursuing a degree in Computer Science and Engineering (CSE). My journey in the world of technology has been marked by a deep passion for frontend development and UI/UX design. <br>
-  💻 Proficient in languages such as HTML, CSS, and JavaScript, I specialize in crafting elegant and responsive user interfaces. I'm well-versed in modern frontend frameworks like React, enabling me to build dynamic and interactive web applications. <br>
-  🎨 With a keen eye for design and a commitment to user-centric experiences, I create visually stunning interfaces that seamlessly blend form and function. From wireframing to prototyping, I enjoy every step of the design process. <br>
-  📊 I also have a solid understanding of backend development and database management, particularly in MySQL, ensuring robust and efficient data-driven solutions for web projects. <br>
-  🌄 Beyond coding, I'm an avid outdoor enthusiast. Whether it's hiking through scenic trails or cycling along picturesque routes, I find inspiration and rejuvenation in nature. <br>
-  📚 An avid reader and lifelong learner, I'm constantly exploring new trends and techniques in frontend development and design, always eager to enhance my skills and stay ahead of the curve. <br>
+  🎓 I'm currently an undergraduate student pursuing a degree in Computer Science and Engineering (CSE). My journey in the world of technology has been marked by a deep passion for frontend development and UI/UX design. <br><br>
+  💻 Proficient in languages such as HTML, CSS, and JavaScript, I specialize in crafting elegant and responsive user interfaces. I'm well-versed in modern frontend frameworks like React, enabling me to build dynamic and interactive web applications. <br><br>
+  🎨 With a keen eye for design and a commitment to user-centric experiences, I create visually stunning interfaces that seamlessly blend form and function. From wireframing to prototyping, I enjoy every step of the design process. <br><br>
+  📊 I also have a solid understanding of backend development and database management, particularly in MySQL, ensuring robust and efficient data-driven solutions for web projects. <br><br>
+  🌄 Beyond coding, I'm an avid outdoor enthusiast. Whether it's hiking through scenic trails or cycling along picturesque routes, I find inspiration and rejuvenation in nature. <br><br>
+  📚 An avid reader and lifelong learner, I'm constantly exploring new trends and techniques in frontend development and design, always eager to enhance my skills and stay ahead of the curve. <br><br>
   🚀 Passionate about leveraging technology to create meaningful experiences, I'm on a mission to make a positive impact through innovative design and cutting-edge development. Join me as I continue to push the boundaries of creativity and craftsmanship in the digital world!
 </p>
 
