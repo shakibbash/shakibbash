@@ -38,7 +38,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakibbash&show_icons=true&locale=en&layout=compact" alt="shakibbash" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakibbash&show_icons=true&locale=en" alt="shakibbash" /></p>
-
+![snake gif](https://github.com/shakibbash/shakibbash/blob/output/github-contribution-grid-snake.gif)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakibbash&" alt="shakibbash" /></p>
 
 ![snake gif](https://github.com/shakibbash/shakibbash/blob/output/github-contribution-grid-snake.gif)
