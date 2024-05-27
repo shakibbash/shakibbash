@@ -55,10 +55,10 @@
 <br>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakibbash&theme=dracula" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakibbash&theme=highcontrast" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakibbash&show_icons=true&theme=dracula&rank_icon=github" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakibbash&show_icons=true&theme=codeSTACKr&rank_icon=github" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=shakibbash&theme=dracula" alt="shakibbash" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=shakibbash&theme=youtube-dark" alt="shakibbash" /></p>
 
 
