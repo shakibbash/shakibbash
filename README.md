@@ -6,9 +6,9 @@
 
 
 
+<h1>Hi <span class="wave">👋</span>, I'm Shakib Hossain </h1>
 
 
-<h1 align="center">Hi 👋, I'm Shakib Hossain</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23DC143C&center=true&vCenter=true&lines=CREATIVE+DESIGNER;GOOD+LISTENER;SELF+LEARNER">
 </p>
