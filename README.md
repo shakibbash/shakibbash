@@ -6,7 +6,7 @@
 
 
 
-<h1>Hi <span class="wave">👋</span>, I'm Shakib Hossain </h1>
+<h1  align="center"> "Hi <span class="wave">👋</span>, I'm Shakib Hossain </h1>
 
 
 <p align="center">
