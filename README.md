@@ -59,6 +59,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakibbash&show_icons=true&theme=codeSTACKr&rank_icon=github" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=&theme=dracula" alt="shakibbash" /></p>
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app?user=shakibbash&theme=radical" alt="shakibbash" /></p>
 
 
