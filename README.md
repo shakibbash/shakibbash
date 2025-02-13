@@ -31,6 +31,7 @@
 <a href="https://linkedin.com/in/shakib hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakib hossain" height="30" width="40" /></a>
 <a href="https://fb.com/shakib hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakib hossain" height="30" width="40" /></a>
 <a href="https://instagram.com/shakib_2273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shakib_2273" height="30" width="40" /></a>
+<a href="https://leetcode.com/shaking235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="shakib_2273" height="30" width="40" /></a>
 </p>
 <br>
 <h2 align="center">📋About me📋</h2>
