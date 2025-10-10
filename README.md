@@ -1,3 +1,13 @@
+<div align="center">
+
+<!-- Profile Header with Typing Animation -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=SHAKIB%20HOSSAIN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+
+<h2>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&width=600&lines=MERN+Stack+Developer;Coding+and+Building+Awesome+Apps;Always+Learning+New+Technologies" alt="Typing Animation"/>
+</h2>
+
+</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
