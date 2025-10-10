@@ -132,7 +132,7 @@ interface Developer {
 
 
 <div align="center">
-<img src="https://i.postimg.cc/rynRQ3Sx/28d841ab-dbe6-4807-88d8-aeb17d3bf5ad.gif" style="mix-blend-mode: lighten;" width="200"  />
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
 
 
 
