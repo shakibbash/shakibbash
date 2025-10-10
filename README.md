@@ -25,7 +25,7 @@
 
 <!-- 3D Animated Name -->
 <div style="font-size: 4rem; font-weight: 800; background: linear-gradient(45deg, #00D9FF, #FF0080, #00FF87, #9D4EDD); background-size: 300% 300%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; animation: gradientShift 3s ease infinite; text-shadow: 0 0 30px rgba(0, 217, 255, 0.5); margin-bottom: 10px;">
-  SHAKIB AHMED
+  SHAKIB Hossain
 </div>
 
 <!-- Rotating Role Badge -->
