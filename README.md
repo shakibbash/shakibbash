@@ -11,7 +11,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-<img align="right" height="270" src="https://i.ibb.co.com/pvzZKkCd/Developer-Front-End.gif" alt="Coding Animation" />
+<img align="right" width="500" height="270" src="https://i.ibb.co.com/pvzZKkCd/Developer-Front-End.gif" alt="Coding Animation" />
 
 ```yaml
 name: Shakib
