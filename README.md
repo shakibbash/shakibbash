@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Retro Terminal Style Header -->
-```bash
+bash
 ╔══════════════════════════════════════════════════════════════╗
 ║    🚀 WELCOME TO MY DIGITAL UNIVERSE 🚀                      ║
 ║                                                              ║
