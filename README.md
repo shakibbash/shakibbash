@@ -36,7 +36,7 @@
 <!-- Interactive Code Terminal -->
 <div style="background: #0d1117; border-radius: 15px; padding: 20px; border: 2px solid #00D9FF; font-family: 'Fira Code', monospace;">
   
-```typescript
+typescript
 interface DigitalCreator {
   identity: {
     name: "Shakib Ahmed";
@@ -65,7 +65,7 @@ interface DigitalCreator {
 
 const shakib: DigitalCreator = await initializeDeveloper();
 shakib.startCoding();
-```
+
 
 </div>
 
