@@ -1,19 +1,22 @@
 <div align="center">
 
-<!-- Animated Header with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:FF0080,100:9D4EDD&height=180&section=header&animation=fadeIn&fontSize=90&fontAlign=50&fontAlignY=65&desc=Full%20Stack%20Developer&descSize=20&descAlign=50&descAlignY=85" />
+<!-- Retro Terminal Style Header -->
+```bash
+╔══════════════════════════════════════════════════════════════╗
+║    🚀 WELCOME TO MY DIGITAL UNIVERSE 🚀                      ║
+║                                                              ║
+║  ███████╗██╗  ██╗ █████╗ ██╗  ██╗██╗██████╗                 ║
+║  ██╔════╝██║  ██║██╔══██╗██║ ██╔╝██║██╔══██╗                ║
+║  ███████╗███████║███████║█████╔╝ ██║██████╔╝                ║
+║  ╚════██║██╔══██║██╔══██║██╔═██╗ ██║██╔══██╗                ║
+║  ███████║██║  ██║██║  ██║██║  ██╗██║██████╔╝                ║
+║  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝                 ║
+║                                                              ║
+║  💫 "Code is Poetry" • "Debugging is an Art" 💫             ║
+╚══════════════════════════════════════════════════════════════╝
 
-<!-- 3D Animated Text Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=4000&pause=500&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=✦+SHAKIB+HOSSAIN+✦" />
-</p>
-
-<!-- Multi-line Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=FF0080&center=true&vCenter=true&multiline=true&width=700&height=80&lines=💠+Computer+Science+%26+Engineering+Student+💠;🚀+MERN+Stack+%7C+Full+Stack+Developer+🚀;🌟+Open+Source+Enthusiast+%7C+Problem+Solver+🌟" />
-</div>
-
-<br>
+<!-- Matrix-style Code Rain --><p align="center"> <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%" /> </p><!-- Glowing Intro Text --><div align="center">
+https://readme-typing-svg.demolab.com?font=Consolas&size=28&duration=4000&pause=1000&color=00FF87&center=true&vCenter=true&width=600&height=60&lines=Hello+World+%25F0%259F%258C%258D;I'm+Shakib+Hossain;Full+Stack+Alchemist+%25F0%259F%2594%25A5;Turning+Coffee+Into+Code+%25E2%2598%2595
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
 <img align="right" height="270" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" />
