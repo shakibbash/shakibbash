@@ -1,65 +1,146 @@
-<p>
-  <img   align="center" width="100%" src="https://i.postimg.cc/x1X5GmnN/Whats-App-Image-2024-05-23-at-21-18-12.jpg" alt="Example Image" > 
-</p>
-<br>
 
 
 
+<div align="center">
 
-<h1  align="center"> "Hi <span class="wave">👋</span>, I'm Shakib Hossain </h1>
+<!-- Header with animated background -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shakib&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+
+<!-- Animated typing with multiple lines -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=CSE+Student+%7C+MERN+Stack+Developer+%F0%9F%92%BB;From+Bangladesh" alt="Typing SVG" />
+
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
+
+</div>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+
+<img align="right" height="270" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" />
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23DC143C&center=true&vCenter=true&lines=CREATIVE+DESIGNER;GOOD+LISTENER;SELF+LEARNER">
-</p>
-<br>
-<h3 align="center">On a thrilling journey through the world of Computer Science and Design! 💻🎨 🚀 Aspiring Frontend Developer & UI/UX Design</h3>
-<br>
-<img align="right" alt="coding" width="500" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
+name: Shakib
+located_in: Dhaka, Bangladesh
+current_role: CSE Student | MERN Stack Developer
+education: 
+  - "Computer Science & Engineering at Premier University"
+
+fields_of_interests:
+  - "Web Development"
+  - "Full Stack Development"
+  - "MERN Stack Development"
+  - "Frontend Development"
+  - "Backend Development"
+  - "Open Source"
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakibbash&label=Profile%20views&color=0e75b6&style=flat" alt="shakibbash" /> </p>
+<br clear="right"/>
 
-- 🌱 I’m currently learning **MERN STACK,**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
 
-- 📫 How to reach me **shaking235@gmail.com**
+<div align="center">
 
-- ⚡ Fun fact **I am hardworking,passionate,eager to learn new things**
+### 🎨 **Frontend Development**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shakib hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakib hossain" height="30" width="40" /></a>
-<a href="https://fb.com/shakib hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakib hossain" height="30" width="40" /></a>
-<a href="https://instagram.com/shakib_2273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shakib_2273" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/shaking235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shaking235/" height="30" width="40" /></a>
-</p>
-<br>
-<h2 align="center">📋About me📋</h2>
-<br>
-<p>
-  🎓 I'm currently an undergraduate student pursuing a degree in Computer Science and Engineering (CSE). My journey in the world of technology has been marked by a deep passion for frontend development and UI/UX design. <br><br>
-  💻 Proficient in languages such as HTML, CSS, and JavaScript, I specialize in crafting elegant and responsive user interfaces. I'm well-versed in modern frontend frameworks like React, enabling me to build dynamic and interactive web applications. <br><br>
-  🎨 With a keen eye for design and a commitment to user-centric experiences, I create visually stunning interfaces that seamlessly blend form and function. From wireframing to prototyping, I enjoy every step of the design process. <br><br>
-  📊 I also have a solid understanding of backend development and database management, particularly in MySQL, ensuring robust and efficient data-driven solutions for web projects. <br><br>
-  🌄 Beyond coding, I'm an avid outdoor enthusiast. Whether it's hiking through scenic trails or cycling along picturesque routes, I find inspiration and rejuvenation in nature. <br><br>
-  📚 An avid reader and lifelong learner, I'm constantly exploring new trends and techniques in frontend development and design, always eager to enhance my skills and stay ahead of the curve. <br><br>
-  🚀 Passionate about leveraging technology to create meaningful experiences, I'm on a mission to make a positive impact through innovative design and cutting-edge development. Join me as I continue to push the boundaries of creativity and craftsmanship in the digital world!
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,materialui,figma&theme=dark" />
 
-<h2 align="center">⚜Languages and Frameworks⚜</h2>
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,php,html,css,js,tailwind,bootstrap,react,mongodb,firebase,expressjs,mysql,git,windows,linux,vscode" />
-  </a>
-</p>
-<br>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakibbash&theme=highcontrast" /></p>
+### ⚙️ **Backend Development**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shakibbash&show_icons=true&theme=codeSTACKr&rank_icon=github" /></p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
 
-<p><img align="center" src="https://nirzak-streak-stats.vercel.app?user=shakibbash&theme=radical" alt="shakibbash" /></p>
+### 🛠️ **Tools & Technologies**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,netlify&theme=dark" />
+
+### 📱 **Languages**
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js&theme=dark" />
+
+</div>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics
+
+<div align="center">
+
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=shakibbash&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakibbash&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com/?user=shakibbash&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=C9D1D9&sideLabels=C9D1D9&border_radius=10" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shakibbash&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
+
+</div>
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> GitHub Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shakibbash&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="32"> Detailed Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakibbash&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakibbash&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shakibbash&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shakibbash&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shakibbash&theme=github_dark&utcOffset=6" />
+
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99112b0f4a9b.gif" width="32"> Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=0077B5)](https://www.linkedin.com/in/shakib/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white\&labelColor=181717)](https://github.com/shakibbash)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white\&labelColor=1877F2)](https://www.facebook.com/shakib)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white\&labelColor=E4405F)](https://www.instagram.com/shakib/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white\&labelColor=1DA1F2)](https://x.com/shakib)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a0d-9d56-6e6b8e0e1f1e.gif" width="400" />
+
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212284094-6a4a4c58-ad2b-4d86-9a1c-6b2b7d1c4e44.gif" width="32"> What I'm Up To
+
+<div align="left">
+
+typescript
+interface Developer {
+  name: "Shakib";
+  location: "Dhaka, Bangladesh";
+  currentRole: "CSE Student | MERN Stack Developer";
+  availableForWork: true;
+  skills: {
+    languages: string["HTML", "CSS", "JavaScript", "NodeJS"];
+    frameworks: string["React", "TailwindCSS", "DaisyUI"];
+    databases: string["MongoDB"];
+  };
+  currentFocus: string["Full-Stack Web Development"];
+}
+
+
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74028158/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="32"> Live Metrics
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shakibbash&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/shakibbash?label=Followers&style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/stars/shakibbash?label=Total%20Stars&style=for-the-badge&color=yellow" />
+
+</div>
+
+<div align="center">
+
+<!-- Animated Footer with Thank You -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank%20You!%20%F0%9F%99%8F&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75" />
+
+</div>
+
 
 
