@@ -1,24 +1,34 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SHAKIB%20HOSSAIN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<!-- Animated Header with Gradient Text -->
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #00D9FF, #FF0080, #9D4EDD, #00FF87); 
+               -webkit-background-clip: text; 
+               -webkit-text-fill-color: transparent;
+               background-clip: text;">
+    SHAKIB HOSSAIN
+  </span>
+</h1>
 
-<!-- Animated Typing Text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=%F0%9F%8E%93+Computer+Science+%26+Engineering+Student;%F0%9F%92%BB+MERN+Stack+%7C+Full+Stack+Developer;%F0%9F%87%A7%F0%9F%87%A9+Dhaka%2C+Bangladesh+%7C+Open+to+Collaborate" />
+<!-- Animated Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=%F0%9F%8E%93+Computer+Science+%26+Engineering+Student;%F0%9F%92%BB+MERN+Stack+%7C+Full+Stack+Developer;%F0%9F%87%A7%F0%9F%87%A9+Dhaka%2C+Bangladesh+%7C+Open+to+Collaborate" />
 
-<!-- Animated Divider -->
+<!-- Modern Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400" />
 
+<!-- Role / Title Badges -->
+<br>
+<span style="display: inline-block; margin: 5px;">
+  ![CSE Student](https://img.shields.io/badge/CSE%20Student-Blue?style=for-the-badge&logo=student&logoColor=white)
+</span>
+<span style="display: inline-block; margin: 5px;">
+  ![MERN Stack Developer](https://img.shields.io/badge/MERN%20Stack%20Dev-%2300D9FF?style=for-the-badge&logo=mern&logoColor=white)
+</span>
+<span style="display: inline-block; margin: 5px;">
+  ![GitHub Username](https://img.shields.io/badge/GitHub-shakibbash-181717?style=for-the-badge&logo=github&logoColor=white)
+</span>
+
 </div>
-
----
-
-## 🎯 Role / Title
-**CSE Student | MERN Stack Developer**  
-**GitHub Username:** `shakibbash`
-
----
-
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
