@@ -7,11 +7,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&width=600&lines=MERN+Stack+Developer;Coding+and+Building+Awesome+Apps;Always+Learning+New+Technologies" alt="Typing Animation"/>
 </h2>
 
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
 </div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-<img align="right" width="400"  src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUybm50dDhwZThhMGwyMHVxOXZpZHZ6ZTR5enE0YWFvNnV6MWFucDZjdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/200.gif" alt="Coding Animation" />
+<img align="right" width="400"  src="https://i.postimg.cc/wjx8W4H4/images.jpg" alt="Coding Animation" />
 
 ```yaml
 name: Shakib
@@ -128,6 +130,7 @@ interface Developer {
 <img src="https://img.shields.io/github/stars/shakibbash?label=Total%20Stars&style=for-the-badge&color=yellow" />
 
 </div>
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300" />
 
 <div align="center">
 
