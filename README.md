@@ -1,22 +1,4 @@
-<div align="center">
 
-<!-- Retro Terminal Style Header -->
-bash
-╔══════════════════════════════════════════════════════════════╗
-║    🚀 WELCOME TO MY DIGITAL UNIVERSE 🚀                      ║
-║                                                              ║
-║  ███████╗██╗  ██╗ █████╗ ██╗  ██╗██╗██████╗                 ║
-║  ██╔════╝██║  ██║██╔══██╗██║ ██╔╝██║██╔══██╗                ║
-║  ███████╗███████║███████║█████╔╝ ██║██████╔╝                ║
-║  ╚════██║██╔══██║██╔══██║██╔═██╗ ██║██╔══██╗                ║
-║  ███████║██║  ██║██║  ██║██║  ██╗██║██████╔╝                ║
-║  ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═════╝                 ║
-║                                                              ║
-║  💫 "Code is Poetry" • "Debugging is an Art" 💫             ║
-╚══════════════════════════════════════════════════════════════╝
-
-<!-- Matrix-style Code Rain --><p align="center"> <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%" /> </p><!-- Glowing Intro Text --><div align="center">
-https://readme-typing-svg.demolab.com?font=Consolas&size=28&duration=4000&pause=1000&color=00FF87&center=true&vCenter=true&width=600&height=60&lines=Hello+World+%25F0%259F%258C%258D;I'm+Shakib+Hossain;Full+Stack+Alchemist+%25F0%259F%2594%25A5;Turning+Coffee+Into+Code+%25E2%2598%2595
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
 <img align="right" height="270" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" />
