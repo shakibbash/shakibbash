@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <!-- Cosmic Header with Floating Elements -->
