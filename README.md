@@ -11,7 +11,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-<img align="right" width="500" height="270" src="https://i.postimg.cc/5NZkZPwS/space-boy-developer.gif" alt="Coding Animation" />
+<img align="right" width="200" height="270" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hzbHBkbGJwdHpxY3IzdzJ6OGFxbDZya2NsZWhreWRha3Y5a2o2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" alt="Coding Animation" />
 
 ```yaml
 name: Shakib
