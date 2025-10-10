@@ -15,7 +15,7 @@
 
 ```yaml
 name: Shakib
-located_in: Dhaka, Bangladesh
+located_in: Chittagong, Bangladesh
 current_role: CSE Student | MERN Stack Developer
 education: 
   - "Computer Science & Engineering at Premier University"
@@ -49,7 +49,7 @@ fields_of_interests:
 
 ### 📱 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,python,js&theme=dark" />
 
 </div>
 
