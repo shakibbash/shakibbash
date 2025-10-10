@@ -1,146 +1,80 @@
-
-
-
 <div align="center">
 
-<!-- Header with animated background -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shakib&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<!-- Animated Header with Particles -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:1e3c72&height=200&section=header&text=Shakib+Ahmed&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Full+Stack+Developer&descSize=20&descAlignY=70" />
 
-<!-- Animated typing with multiple lines -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=CSE+Student+%7C+MERN+Stack+Developer+%F0%9F%92%BB;From+Bangladesh" alt="Typing SVG" />
+<!-- 3D Animated Typing -->
+<div style="background: linear-gradient(45deg, #00D9FF, #FF0080, #00FF87); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%F0%9F%8C%8D+Computer+Science+%26+Engineering+Student;%F0%9F%92%BB+MERN+Stack+Developer;%F0%9F%87%A7%F0%9F%87%A9+Based+in+Dhaka%2C+Bangladesh" alt="Typing SVG" />
+</div>
 
-<!-- Animated divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
+<!-- Matrix-style Code Rain -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="600" height="2">
 
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
+<br>
 
-<img align="right" height="270" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" />
-
-
-name: Shakib
-located_in: Dhaka, Bangladesh
-current_role: CSE Student | MERN Stack Developer
-education: 
-  - "Computer Science & Engineering at Premier University"
-
-fields_of_interests:
-  - "Web Development"
-  - "Full Stack Development"
-  - "MERN Stack Development"
-  - "Frontend Development"
-  - "Backend Development"
-  - "Open Source"
-
-
-<br clear="right"/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="35"> **About Me**
 
 <div align="center">
-
-### 🎨 **Frontend Development**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,materialui,figma&theme=dark" />
-
-### ⚙️ **Backend Development**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
-
-### 🛠️ **Tools & Technologies**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,netlify&theme=dark" />
-
-### 📱 **Languages**
-
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js&theme=dark" />
-
+  
+javascript
+const shakib = {
+  pronouns: "He" | "Him",
+  code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
+  technologies: {
+    frontend: {
+      js: ["React", "Next.js", "Vue"],
+      css: ["Tailwind", "Styled Components", "Material-UI"]
+    },
+    backend: {
+      js: ["Node.js", "Express", "NestJS"],
+      databases: ["MongoDB", "PostgreSQL", "MySQL"],
+      devOps: ["Docker", "AWS", "Vercel", "Netlify"]
+    },
+    mobile: ["React Native", "Flutter"],
+    tools: ["Git", "Jest", "Webpack", "Figma"]
+  },
+  architecture: ["Microservices", "REST APIs", "GraphQL", "Serverless"],
+  currentFocus: "Building scalable full-stack applications",
+  funFact: "I turn coffee into code ☕ → 💻"
+};
 </div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics
-
+<img src="https://media.giphy.com/media/j2pOGeGYKe2xCCUtfi/giphy.gif" width="35"> Tech Arsenal
 <div align="center">
+🚀 Core Technologies
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,vue,tailwind,mongodb,postgres,mysql,redis,graphql&theme=dark&perline=8" />
+🛠️ Development Tools
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,vercel,netlify,figma,vscode,postman,linux,bash&theme=dark&perline=8" />
+📚 Currently Learning
+<img src="https://skillicons.dev/icons?i=go,rust,kubernetes,jenkins,python,django,flutter,threejs&theme=dark&perline=8" /></div>
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35"> GitHub Analytics
+<div align="center"><!-- Advanced Stats Grid --><table> <tr> <td> <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=shakibbash&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&border_radius=15&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats" /> </td> <td> <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=shakibbash&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=15&langs_count=8&exclude_repo=github-readme-stats" /> </td> </tr> <tr> <td colspan="2"> <img src="https://streak-stats.demolab.com?user=shakibbash&theme=radical&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=ff6b6b&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=58a6ff&dates=c9d1d9&sideLabels=c9d1d9&border_radius=15" /> </td> </tr> </table><!-- 3D Contribution Graph --><img src="https://github-readme-activity-graph.vercel.app/graph?username=shakibbash&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=My%20Contribution%20Activity&point=58a6ff&line=1f6feb&area_color=1f6feb&color=c9d1d9&border_radius=15" /></div>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Achievements
+<div align="center"><!-- GitHub Trophies --><img src="https://github-profile-trophy.vercel.app/?username=shakibbash&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&margin-h=15" /><!-- GitHub Profile Summary Cards --><div> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakibbash&theme=radical" /> </div> <div> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakibbash&theme=radical" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shakibbash&theme=radical" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shakibbash&theme=radical" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shakibbash&theme=radical&utcOffset=6" /> </div></div>
+<img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="35"> Featured Projects
+<div align="center"><!-- Project Cards --><table> <tr> <td width="50%"> <h3 align="center">🚀 E-Commerce Platform</h3> <div align="center"> <img height="120" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" /> </div> <p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,tailwind" /> </p> <p align="center">Full-stack e-commerce solution with modern UI</p> </td> <td width="50%"> <h3 align="center">🤖 AI Chat Application</h3> <div align="center"> <img height="120" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" /> </div> <p align="center"> <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,aws" /> </p> <p align="center">Real-time chat app with AI integration</p> </td> </tr> </table></div>
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="35"> Let's Connect!
+<div align="center"><!-- Animated Social Badges -->
+https://img.shields.io/badge/LinkedIn-Connect-%25230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5
+https://img.shields.io/badge/GitHub-Follow-%2523181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717
+https://img.shields.io/badge/Portfolio-Visit-%2523FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6B6B
+https://img.shields.io/badge/Email-Contact-%2523D44638?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D44638
+https://img.shields.io/badge/Twitter-Follow-%25231DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2
 
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=shakibbash&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=10" />
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakibbash&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=10&langs_count=8" />
+<!-- Coding Animation --><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-429f-8f47-98e375e6f34f.gif" width="500" /></div>
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35"> Live Metrics
+<div align="center"><!-- Real-time Metrics --><img src="https://komarev.com/ghpvc/?username=shakibbash&label=Profile+Views&color=00D9FF&style=for-the-badge&labelColor=1e3c72" /> <img src="https://img.shields.io/github/followers/shakibbash?label=Followers&style=for-the-badge&color=00FF87&labelColor=1e3c72" /> <img src="https://img.shields.io/github/stars/shakibbash?label=Total+Stars&style=for-the-badge&color=FF0080&labelColor=1e3c72" /> <img src="https://img.shields.io/github/last-commit/shakibbash/shakibbash?label=Last+Commit&style=for-the-badge&color=9D4EDD&labelColor=1e3c72" /><!-- WakaTime Stats --><!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shakibbash&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=15&langs_count=5" /> --></div>
+<img src="https://media.giphy.com/media/Xy2hIl8Gk0zva/giphy.gif" width="35"> Weekly Development Breakdown
+text
+JavaScript    🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦   75.2%
+TypeScript    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩           45.8%
+Python        🟨🟨🟨🟨🟨🟨🟨🟨               32.1%
+Java          🟪🟪🟪🟪🟪🟪                   25.4%
+CSS           🟥🟥🟥🟥🟥                     18.7%
+Other         🟫🟫🟫                         12.3%
+<div align="center"><!-- Animated Footer --><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:1e3c72&height=120&section=footer&text=Thanks+for+visiting!+%F0%9F%99%8F&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=75&desc=Let%27s+build+something+amazing+together!&descSize=14&descAlignY=90" /><!-- Snake Game Contribution Graph --><img src="https://raw.githubusercontent.com/shakibbash/shakibbash/output/github-contribution-grid-snake.svg" />
+"Code is like humor. When you have to explain it, it's bad." - Cory House
 
-<img src="https://streak-stats.demolab.com/?user=shakibbash&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=58A6FF&dates=C9D1D9&sideLabels=C9D1D9&border_radius=10" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shakibbash&custom_title=My%20Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true&border_radius=10" />
-
-</div>
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shakibbash&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="32"> Detailed Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakibbash&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shakibbash&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shakibbash&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shakibbash&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shakibbash&theme=github_dark&utcOffset=6" />
-
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99112b0f4a9b.gif" width="32"> Let's Connect!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=0077B5)](https://www.linkedin.com/in/shakib/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white\&labelColor=181717)](https://github.com/shakibbash)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white\&labelColor=1877F2)](https://www.facebook.com/shakib)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white\&labelColor=E4405F)](https://www.instagram.com/shakib/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge\&logo=twitter\&logoColor=white\&labelColor=1DA1F2)](https://x.com/shakib)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a0d-9d56-6e6b8e0e1f1e.gif" width="400" />
-
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284094-6a4a4c58-ad2b-4d86-9a1c-6b2b7d1c4e44.gif" width="32"> What I'm Up To
-
-<div align="left">
-
-typescript
-interface Developer {
-  name: "Shakib";
-  location: "Dhaka, Bangladesh";
-  currentRole: "CSE Student | MERN Stack Developer";
-  availableForWork: true;
-  skills: {
-    languages: string["HTML", "CSS", "JavaScript", "NodeJS"];
-    frameworks: string["React", "TailwindCSS", "DaisyUI"];
-    databases: string["MongoDB"];
-  };
-  currentFocus: string["Full-Stack Web Development"];
-}
-
-
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74028158/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="32"> Live Metrics
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=shakibbash&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/shakibbash?label=Followers&style=for-the-badge&color=blue" />
-<img src="https://img.shields.io/github/stars/shakibbash?label=Total%20Stars&style=for-the-badge&color=yellow" />
-
-</div>
-
-<div align="center">
-
-<!-- Animated Footer with Thank You -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank%20You!%20%F0%9F%99%8F&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=75" />
-
-</div>
-
-
-
+</div> 
