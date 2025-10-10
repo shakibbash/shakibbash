@@ -132,7 +132,8 @@ interface Developer {
 
 
 <div align="center">
-<img src="https://i.postimg.cc/rynRQ3Sx/28d841ab-dbe6-4807-88d8-aeb17d3bf5ad.gif" width="300" />
+<img src="https://i.postimg.cc/rynRQ3Sx/28d841ab-dbe6-4807-88d8-aeb17d3bf5ad.gif" style="background: transparent; mix-blend-mode: multiply;" width="300" />
+
 
 <!-- Animated Footer with Thank You -->
 
