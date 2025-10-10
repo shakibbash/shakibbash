@@ -1,4 +1,52 @@
+<div align="center">
 
+<!-- ASCII Art Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" />
+
+<!-- Animated Typing with Icons -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+SHAKIB+HOSSAIN;💻+Full+Stack+Developer;📚+CSE+Student;🔥+MERN+Stack+Expert;🌍+Dhaka,+Bangladesh)](https://git.io/typing-svg)
+
+<!-- Tech Stack Icons -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,html,css,tailwind,git,github,vscode&theme=dark&perline=12" />
+</p>
+
+<!-- Stats Cards -->
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=shakibbash&show_icons=true&theme=radical&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakibbash&layout=compact&theme=radical&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+<!-- Contact Badges -->
+<p align="center">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-00D9FF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/shakibbash">
+    <img src="https://img.shields.io/badge/Portfolio-FF0080?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<!-- Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakibbash&theme=radical&hide_border=true" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakibbash&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
