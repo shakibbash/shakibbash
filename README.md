@@ -6,7 +6,7 @@
 <h2>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&width=600&lines=MERN+Stack+Developer;Coding+and+Building+Awesome+Apps;Always+Learning+New+Technologies" alt="Typing Animation"/>
 </h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Tiger.png" alt="Tiger" width="23%" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Tiger%20Face.png" alt="Tiger Face" width="23%"  />
 <br>
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
