@@ -3,8 +3,7 @@
 <div align="center">
 
 <!-- Header with animated background -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shakib&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,30:2a5298,60:1a1a2e,100:16213e&height=220&section=header&text=Shakib+Ahmed&fontSize=52&fontColor=fff&animation=scale&fontAlignY=40&desc=Full+Stack+Alchemist&descSize=24&descAlignY=75&descColor=00D9FF" />
 <!-- Animated typing with multiple lines -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=CSE+Student+%7C+MERN+Stack+Developer+%F0%9F%92%BB;From+Bangladesh" alt="Typing SVG" />
 
