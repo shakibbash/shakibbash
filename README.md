@@ -23,7 +23,7 @@
 <img align="right" width="400"  src="https://i.postimg.cc/wjx8W4H4/images.jpg" alt="Coding Animation" />
 
 ```yaml
-name: Shakib
+name: Shakib Hossain
 located_in: Chittagong, Bangladesh
 current_role: CSE Student | MERN Stack Developer
 education: 
@@ -113,8 +113,8 @@ fields_of_interests:
 
 ```typescript
 interface Developer {
-  name: "Shakib";
-  location: "Dhaka, Bangladesh";
+  name: "Shakib Hossain";
+  location: "Chittagong, Bangladesh";
   currentRole: "CSE Student | MERN Stack Developer";
   availableForWork: true;
   skills: {
