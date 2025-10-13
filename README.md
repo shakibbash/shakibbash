@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=SHAKIB%20HOSSAIN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
 <h2>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&width=600&lines=MERN+Stack+Developer;Coding+and+Building+Awesome+Apps;Always+Learning+New+Technologies" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=6E8CFB&center=true&width=600&lines=MERN+Stack+Developer;Coding+and+Building+Awesome+Apps;Always+Learning+New+Technologies" alt="Typing Animation"/>
 </h2>
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Astronaut%20Medium-Light%20Skin%20Tone.png" alt="Man Astronaut Medium-Light Skin Tone" width="23%" />
