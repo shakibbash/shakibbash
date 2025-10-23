@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=6E8CFB&center=true&width=600&lines=MERN+Stack+Developer;Coding+and+Building+Awesome+Apps;Always+Learning+New+Technologies" alt="Typing Animation"/>
 </h2>
 
-<img src="https://github.com/shakibbash/shakibbash/blob/main/SHAKIB%20HOSSAIN%20(2).png?raw=true" width="100%" />
+<img src="https://github.com/shakibbash/shakibbash/blob/main/Gemini_Generated_Image_zi3emczi3emczi3e.png" width="100%" />
 <br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%FFFD8F&center=true&vCenter=true&lines=🚀+Welcome+to+my+GitHub+Profile!;🌟+Scroll+down+to+explore+my+work!"><br>
